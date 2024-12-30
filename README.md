@@ -9,6 +9,12 @@
 ### [SaperateTables.py](./SaperateTables.py)
 - This file ETL process for loading data into seperate country tables.
 
+### [exportAllcountrydata.py](./exportAllcountrydata.py)
+- File contain code for exporing data for all countries
+
+### [exportedFiles](./exportedFiles/)
+- All exported file stored at this location. location will create automatically is not exist already
+
 ### [requirement.txt](./requirement.txt)
 - It Include all necessary python packages.
 
