@@ -1,0 +1,3 @@
+pandas
+PyMySQL
+python-dotenv
